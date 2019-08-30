@@ -37,6 +37,7 @@ that particular poster will be displayed in the exhibit.
 *Help
 - Displays FAQS with answers
 
-Credits : templated.co for the web template
 *Contact US
 - Displays contact information
+
+Credits : templated.co for the web template

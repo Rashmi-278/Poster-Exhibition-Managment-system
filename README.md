@@ -41,3 +41,26 @@ that particular poster will be displayed in the exhibit.
 - Displays contact information
 
 Credits : templated.co for the web template
+
+
+
+ORBIT
+|_
+  html
+  |__css
+        |_animate.css
+        |_main.css
+  |__js
+      |_animate.js
+      |_custom.js
+  |_php
+       |_test.php
+       |_register.php
+       |_pdisp_esession.php
+       |_judgelogin.php
+  |_images
+         *images used*
+  |
+  *all other files*
+       
+    
